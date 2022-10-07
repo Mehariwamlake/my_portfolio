@@ -1,3 +1,4 @@
+<body style="background: pink;">
 <center><h1>my portfolio</h1><center>
 
   <center> <h2>General Use</h2> </center>
